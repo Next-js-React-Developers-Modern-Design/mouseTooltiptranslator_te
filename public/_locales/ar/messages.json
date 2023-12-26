@@ -1,0 +1,170 @@
+{
+	"Main______________________________________": {
+		"message": "رئيسي                                      "
+	},
+	"Mouse_Tooltip_Translator": {
+		"message": "Mouse Tooltip Translator"
+	},
+	"Show_Tooltip_When": {
+		"message": "متى يظهر تلميح الأداة"
+	},
+	"Voice_When": {
+		"message": "متى يقرأ النص صوتيا"
+	},
+	"Translate_When": {
+		"message": "متى يترجم"
+	},
+	"Translate_From": {
+		"message": "الترجمة من"
+	},
+	"Translate_Into": {
+		"message": "الترجمة إلى"
+	},
+	"Translator_Engine": {
+		"message": "محرك الترجمة"
+	},
+	"Text_Detect_Type": {
+		"message": "نوع الكشف عن النص"
+	},
+	"Writing_Language": {
+		"message": "لغة الكتابة"
+	},
+	"OCR_Detection_Language": {
+		"message": "لغة الكشف عن التعرف الضوئي على الحروف OCR"
+	},
+	"Visual______________________________________": {
+		"message": "مرئي                                      "
+	},
+	"Tooltip_Font_Size": {
+		"message": "حجم خط تلميح الأداة"
+	},
+	"Tooltip_Width": {
+		"message": "عرض تلميح الأداة"
+	},
+	"Tooltip_Distance": {
+		"message": "مسافة تلميح الأداة"
+	},
+	"Tooltip_Animation": {
+		"message": "Tooltip Animation"
+	},
+	"Tooltip_Position": {
+		"message": "موضع تلميح الأداة"
+	},
+	"Tooltip_Text_Align": {
+		"message": "محاذاة نص تلميح الأداة"
+	},
+	"Tooltip_Background_Blur": {
+		"message": "طمس الخلفية تلميح الأداة"
+	},
+	"Tooltip_Font_Color": {
+		"message": "لون خط تلميح الأداة"
+	},
+	"Tooltip_Background_Color": {
+		"message": "لون خلفية تلميح الأداة"
+	},
+	"Highlight_Color": {
+		"message": "Highlight Color"
+	},
+	"Voice______________________________________": {
+		"message": "صوت                                      "
+	},
+	"Voice_Volume": {
+		"message": "Voice Volume"
+	},
+	"Voice_Speed": {
+		"message": "Voice Speed"
+	},
+	"Voice_Target": {
+		"message": "Voice Target"
+	},
+	"Voice_Repeat": {
+		"message": "Voice Repeat"
+	},
+	"Voice_for_": {
+		"message": "صوت ل "
+	},
+	"ADVANCED______________________________________": {
+		"message": "متقدم                                      "
+	},
+	"Translate_Writing_Hotkey": {
+		"message": "ترجمة مفتاح التشغيل السريع للكتابة"
+	},
+	"OCR_When": {
+		"message": "متى يقع التعرف الضوئي على الحروف OCR"
+	},
+	"Detect_Type_Swap_Hold_Key": {
+		"message": "ما هو نوع مفتاح تعليق المبادلة للكشف"
+	},
+	"Enable_Youtube_Subtitle": {
+		"message": "تمكين الترجمة ليوتيوب"
+	},
+	"Detect_PDF": {
+		"message": "كشف PDF"
+	},
+	"Reverse_Translate_Language": {
+		"message": "عكس لغة الترجمة"
+	},
+	"EXCLUDE______________________________________": {
+		"message": "استبعاد                                      "
+	},
+	"Exclude_Language": {
+		"message": "استبعاد اللغة"
+	},
+	"Exclude_Website": {
+		"message": "استبعاد موقع الويب"
+	},
+	"About______________________________________": {
+		"message": "عن                                      "
+	},
+	"How_to_use": {
+		"message": "كيفية الاستعمال"
+	},
+	"Check_how_to_use_this_extension": {
+		"message": "تحقق من كيفية استخدام هذه الإضافة"
+	},
+	"PDF_Viewer": {
+		"message": "عارض PDF"
+	},
+	"Translate_local_PDF_file": {
+		"message": "ترجمة ملف PDF المحلي"
+	},
+	"Ebook_Reader": {
+		"message": "قارئ الكتاب الاليكتروني"
+	},
+	"Translate_local_ebook_file": {
+		"message": "ترجمة ملف الكتاب الإلكتروني المحلي"
+	},
+	"Twitter": {
+		"message": "Twitter"
+	},
+	"Retweet_twitter_post": {
+		"message": "Retweet twitter post"
+	},
+	"Review_Page": {
+		"message": "صفحة المراجعة"
+	},
+	"Comment_on_this_extension": {
+		"message": "التعليق على هذا التمديد"
+	},
+	"Source_code": {
+		"message": "كود المصدر"
+	},
+	"Check_source_code_in_github": {
+		"message": "تحقق من كود المصدر في Github"
+	},
+	"Privacy_Policy": {
+		"message": "سياسة الخصوصية"
+	},
+	"User_privacy_policy": {
+		"message": "سياسة خصوصية المستخدم"
+	},
+	"Title______________________________________": {
+		"message": "عنوان                                      "
+	},
+	"appName": {
+		"message": "مترجم تلميح الأدوات بالفأرة"
+	},
+	"appDesc": {
+		"message": "ترجمة نص تحت مؤشر الفأرة باستخدام محركات ترجمة مختلفة من ضمنها Googleو Bingو Yandexو DeepLو Naver Papagoو"
+	}
+}

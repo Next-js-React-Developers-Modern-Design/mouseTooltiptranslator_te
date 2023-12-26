@@ -1,0 +1,170 @@
+{
+	"Main______________________________________": {
+		"message": "Principal                                      "
+	},
+	"Mouse_Tooltip_Translator": {
+		"message": "Traduction Souris Info-bulle"
+	},
+	"Show_Tooltip_When": {
+		"message": "Afficher l'infobulle lorsque"
+	},
+	"Voice_When": {
+		"message": "TTS Quand"
+	},
+	"Translate_When": {
+		"message": "Traduire quand"
+	},
+	"Translate_From": {
+		"message": "Traduire de"
+	},
+	"Translate_Into": {
+		"message": "Traduire en"
+	},
+	"Translator_Engine": {
+		"message": "Moteur de traduction"
+	},
+	"Text_Detect_Type": {
+		"message": "Type de détection de texte"
+	},
+	"Writing_Language": {
+		"message": "Langue d'écriture"
+	},
+	"OCR_Detection_Language": {
+		"message": "Langue de détection de l'OCR"
+	},
+	"Visual______________________________________": {
+		"message": "Visuel                                      "
+	},
+	"Tooltip_Font_Size": {
+		"message": "Taille de la police de l'infobulle"
+	},
+	"Tooltip_Width": {
+		"message": "Largeur de l'infobulle"
+	},
+	"Tooltip_Distance": {
+		"message": "Distance de l'infobulle"
+	},
+	"Tooltip_Animation": {
+		"message": "Tooltip Animation"
+	},
+	"Tooltip_Position": {
+		"message": "Position de l'infobulle"
+	},
+	"Tooltip_Text_Align": {
+		"message": "Alignement du texte de l'infobulle"
+	},
+	"Tooltip_Background_Blur": {
+		"message": "Flou de l'arrière-plan de la bulle d'aide"
+	},
+	"Tooltip_Font_Color": {
+		"message": "Couleur de la police de l'infobulle"
+	},
+	"Tooltip_Background_Color": {
+		"message": "Couleur d'arrière-plan de l'infobulle"
+	},
+	"Highlight_Color": {
+		"message": "Highlight Color"
+	},
+	"Voice______________________________________": {
+		"message": "Voix                                      "
+	},
+	"Voice_Volume": {
+		"message": "Voice Volume"
+	},
+	"Voice_Speed": {
+		"message": "Voice Speed"
+	},
+	"Voice_Target": {
+		"message": "Voice Target"
+	},
+	"Voice_Repeat": {
+		"message": "Voice Repeat"
+	},
+	"Voice_for_": {
+		"message": "La voix pour "
+	},
+	"ADVANCED______________________________________": {
+		"message": "AVANCÉ                                      "
+	},
+	"Translate_Writing_Hotkey": {
+		"message": "Touche de raccourci pour traduire l'écriture"
+	},
+	"OCR_When": {
+		"message": "OCR Quand"
+	},
+	"Detect_Type_Swap_Hold_Key": {
+		"message": "Type de détection Permutation Touche de maintien"
+	},
+	"Enable_Youtube_Subtitle": {
+		"message": "Activer les sous-titres de Youtube"
+	},
+	"Detect_PDF": {
+		"message": "Détecter PDF"
+	},
+	"Reverse_Translate_Language": {
+		"message": "Langue de traduction inversée"
+	},
+	"EXCLUDE______________________________________": {
+		"message": "EXCLURE                                      "
+	},
+	"Exclude_Language": {
+		"message": "Exclure la langue"
+	},
+	"Exclude_Website": {
+		"message": "Exclure le site Web"
+	},
+	"About______________________________________": {
+		"message": "À propos                                      "
+	},
+	"How_to_use": {
+		"message": "Comment utiliser"
+	},
+	"Check_how_to_use_this_extension": {
+		"message": "Vérifiez comment utiliser cette extension"
+	},
+	"PDF_Viewer": {
+		"message": "Visionneuse PDF"
+	},
+	"Translate_local_PDF_file": {
+		"message": "Traduire un fichier PDF local"
+	},
+	"Ebook_Reader": {
+		"message": "Ebook Reader"
+	},
+	"Translate_local_ebook_file": {
+		"message": "Translate local ebook file"
+	},
+	"Twitter": {
+		"message": "Twitter"
+	},
+	"Retweet_twitter_post": {
+		"message": "Retweet twitter post"
+	},
+	"Review_Page": {
+		"message": "Page de révision"
+	},
+	"Comment_on_this_extension": {
+		"message": "Commentez cette extension"
+	},
+	"Source_code": {
+		"message": "Code source"
+	},
+	"Check_source_code_in_github": {
+		"message": "Vérifier le code source sur github"
+	},
+	"Privacy_Policy": {
+		"message": "Politique de confidentialité"
+	},
+	"User_privacy_policy": {
+		"message": "Politique de confidentialité des utilisateurs"
+	},
+	"Title______________________________________": {
+		"message": "Titre                                      "
+	},
+	"appName": {
+		"message": "Traduction Souris Info-bulle : Learn Language"
+	},
+	"appDesc": {
+		"message": "Traduire le texte pointé par la souris à l'aide de différent moteur de traduction"
+	}
+}

@@ -1,0 +1,170 @@
+{
+	"Main______________________________________": {
+		"message": "ראשי                                      "
+	},
+	"Mouse_Tooltip_Translator": {
+		"message": "Mouse Tooltip Translator"
+	},
+	"Show_Tooltip_When": {
+		"message": "מתי להראות את התרגום?"
+	},
+	"Voice_When": {
+		"message": "מתי להשמיע את התרגום?"
+	},
+	"Translate_When": {
+		"message": "מתי לתרגם?"
+	},
+	"Translate_From": {
+		"message": "שפת מקור"
+	},
+	"Translate_Into": {
+		"message": "שפת יעד"
+	},
+	"Translator_Engine": {
+		"message": "מנוע תרגום"
+	},
+	"Text_Detect_Type": {
+		"message": "מה לתרגם?"
+	},
+	"Writing_Language": {
+		"message": "Writing Language"
+	},
+	"OCR_Detection_Language": {
+		"message": "שפת ocr"
+	},
+	"Visual______________________________________": {
+		"message": "תצוגה                                      "
+	},
+	"Tooltip_Font_Size": {
+		"message": "גודל פונט"
+	},
+	"Tooltip_Width": {
+		"message": "רוחב טולטיפ"
+	},
+	"Tooltip_Distance": {
+		"message": "מרחק טולטיפ"
+	},
+	"Tooltip_Animation": {
+		"message": "Tooltip Animation"
+	},
+	"Tooltip_Position": {
+		"message": "מיקום טולטיפ"
+	},
+	"Tooltip_Text_Align": {
+		"message": "יישור טקסט"
+	},
+	"Tooltip_Background_Blur": {
+		"message": "טשטוש רקע"
+	},
+	"Tooltip_Font_Color": {
+		"message": "צבע טקסט"
+	},
+	"Tooltip_Background_Color": {
+		"message": "צבע טולטיפ"
+	},
+	"Highlight_Color": {
+		"message": "Highlight Color"
+	},
+	"Voice______________________________________": {
+		"message": "קול                                      "
+	},
+	"Voice_Volume": {
+		"message": "Voice Volume"
+	},
+	"Voice_Speed": {
+		"message": "Voice Speed"
+	},
+	"Voice_Target": {
+		"message": "Voice Target"
+	},
+	"Voice_Repeat": {
+		"message": "Voice Repeat"
+	},
+	"Voice_for_": {
+		"message": "Voice for "
+	},
+	"ADVANCED______________________________________": {
+		"message": "ADVANCED                                      "
+	},
+	"Translate_Writing_Hotkey": {
+		"message": "תרגם בלחיצה על מקש"
+	},
+	"OCR_When": {
+		"message": "מתי לעשות ocr?"
+	},
+	"Detect_Type_Swap_Hold_Key": {
+		"message": "תרגם בהחזקת מקש"
+	},
+	"Enable_Youtube_Subtitle": {
+		"message": "אפשר כתוביות youtube"
+	},
+	"Detect_PDF": {
+		"message": "זהה pdf"
+	},
+	"Reverse_Translate_Language": {
+		"message": "Reverse Translate Language"
+	},
+	"EXCLUDE______________________________________": {
+		"message": "EXCLUDE                                      "
+	},
+	"Exclude_Language": {
+		"message": "אל תתרגם את השפות"
+	},
+	"Exclude_Website": {
+		"message": "אל תתרגם את האתרים"
+	},
+	"About______________________________________": {
+		"message": "אודות                                      "
+	},
+	"How_to_use": {
+		"message": "How to use"
+	},
+	"Check_how_to_use_this_extension": {
+		"message": "Check how to use this extension"
+	},
+	"PDF_Viewer": {
+		"message": "מציג pdf"
+	},
+	"Translate_local_PDF_file": {
+		"message": "תרגום pdf מקומי"
+	},
+	"Ebook_Reader": {
+		"message": "Ebook Reader"
+	},
+	"Translate_local_ebook_file": {
+		"message": "Translate local ebook file"
+	},
+	"Twitter": {
+		"message": "Twitter"
+	},
+	"Retweet_twitter_post": {
+		"message": "Retweet twitter post"
+	},
+	"Review_Page": {
+		"message": "Review Page"
+	},
+	"Comment_on_this_extension": {
+		"message": "Comment on this extension"
+	},
+	"Source_code": {
+		"message": "קוד מקור"
+	},
+	"Check_source_code_in_github": {
+		"message": "קוד מקור בgithub"
+	},
+	"Privacy_Policy": {
+		"message": "מדיניות פרטיות"
+	},
+	"User_privacy_policy": {
+		"message": "מדיניות פרטיות למשתמש"
+	},
+	"Title______________________________________": {
+		"message": "כותרת                                      "
+	},
+	"appName": {
+		"message": "מתרגם tooltip"
+	},
+	"appDesc": {
+		"message": "מתרגם מסביר כלים לעכבר תרגם טקסט עכבר באמצעות Google Translate"
+	}
+}
